@@ -37,5 +37,4 @@
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="https://www.kaggle.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a></code>
 
-## Visitors 💬
- ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FGamzeeBabayigit.GamzeeBabayigit%2Freadme)
+
