@@ -28,9 +28,13 @@
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://www.opencv.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
 <code><a href="https://www.android.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
+<code><a href="#" target="_blank"><img height="50" src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg"></a></code>
+<code><a href="#" target="_blank"><img height="50" src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg"></a></code>
 <code><a href="https://getbootstrap.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></code>
 <code><a href="https://github.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://www.kaggle.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a></code>
 <code><a href="http://tomcat.apache.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg"></a></code>
- 
+<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+
+
