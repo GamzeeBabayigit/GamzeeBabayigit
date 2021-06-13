@@ -11,7 +11,7 @@
  
  ## Contact Me 📫
 
-[![Linkedin Badge](https://img.shields.io/badge/GamzeBabayigit-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/gamze-babayiğit/)
+[![Linkedin Badge](https://img.shields.io/badge/GamzeBabayigit-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gamze-babayiğit/)
 
 [![Instagram Badge](https://img.shields.io/badge/itsmebabayigit-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/itsmebabayigit/)
  
