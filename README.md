@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Web Site
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Asp.Net Core
 - 📫 How to reach me: babayigitgamzee@gmail.com
 - ⚡ Fun fact: drink coffee and write code 
  
